@@ -103,8 +103,7 @@ Mismatch in Supabase CLI version compatibility and misconfiguration in config.to
 - Validated edge runtime configuration per Supabase requirements
 
 #### Outcome
-- Edge functions execute reliably without errors
-- Email confirmation is sent successfully
+- Edge functions execute reliably without errors and Email confirmation is sent successfully
 - Backend integration is stable and dependable
 
 ---
