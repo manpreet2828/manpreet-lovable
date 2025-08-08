@@ -1,6 +1,7 @@
 # Lead Capture Form & Backend Integration Fixes
 
-## Overview This document highlights the key bugs I addressed related to form submission handling, user experience improvements, and backend edge function errors affecting email confirmation workflows.
+## Overview 
+This document highlights the key bugs I addressed related to form submission handling, user experience improvements, and backend edge function errors affecting email confirmation workflows.
 
 ## Critical Fixes
 
